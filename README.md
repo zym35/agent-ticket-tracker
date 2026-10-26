@@ -37,3 +37,7 @@ git clone https://github.com/zym35/agent-ticket-tracker ~/.agents/skills/agent-t
 4. Open `TRACKER.md` (Markdown preview works best) to check status. To answer an ask, reply in chat. The agent records your decision and moves the line to Recently completed.
 
 By default, the tracker files are local only (in `.git/info/exclude`). Ask the agent to commit them if you want to share them.
+
+## License
+
+[MIT](LICENSE)
